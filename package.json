@@ -1,0 +1,12 @@
+{
+  "name": "quran-bot",
+  "version": "1.0.0",
+  "description": "Quran and Quiz Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
